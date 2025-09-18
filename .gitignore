@@ -27,3 +27,6 @@ coverage
 .vitepress/cache
 
 packages/**/__screenshots__
+
+!packages/integrations/dist
+!packages/integrations/dist/**
